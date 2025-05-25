@@ -23,15 +23,15 @@
 
 ### Introduction
 
-[Krayin CRM](https://krayincrm.com) is a hand tailored CRM framework built on some of the hottest opensource technologies
+[Бизнес Поток CRM](https://krayincrm.com) is a hand tailored CRM framework built on some of the hottest opensource technologies
 such as [Laravel](https://laravel.com) (a [PHP](https://secure.php.net/) framework) and [Vue.js](https://vuejs.org)
 a progressive Javascript framework.
 
 **Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.**
 
-**Read our documentation: [Krayin CRM Docs](https://devdocs.krayincrm.com/)**
+**Read our documentation: [Бизнес Поток CRM Docs](https://devdocs.krayincrm.com/)**
 
-**We also have a forum for any type of concerns, feature requests, or discussions. Please visit: [Krayin CRM Forums](https://forums.krayincrm.com/)**
+**We also have a forum for any type of concerns, feature requests, or discussions. Please visit: [Бизнес Поток CRM Forums](https://forums.krayincrm.com/)**
 
 # Visit our live [Demo](https://demo.krayincrm.com)
 
@@ -49,7 +49,7 @@ It packs in lots of features that will allow your E-Commerce business to scale i
 -   Check out [these features and more](https://krayincrm.com/features/).
 
 **For Developers**:
-Take advantage of two of the hottest frameworks used in this project -- Laravel and Vue.js -- both of which have been used in Krayin CRM.
+Take advantage of two of the hottest frameworks used in this project -- Laravel and Vue.js -- both of which have been used in Бизнес Поток CRM.
 
 ### Documentation
 
@@ -112,20 +112,20 @@ password:admin123
 ```
 ### WhatsApp CRM Integration
 
-[Krayin CRM WhatsApp](https://krayincrm.com/extensions/krayin-crm-whatsapp-extension/) Extension enables the store administrator to generate leads via their WhatsApp number.
+[Бизнес Поток CRM WhatsApp](https://krayincrm.com/extensions/krayin-crm-whatsapp-extension/) Extension enables the store administrator to generate leads via their WhatsApp number.
 
 ![enter image description here](https://raw.githubusercontent.com/krayin/temp-media/master/krayin-crm-whatsapp-integration.png)
 
 ### VoIP CRM Integration
 
-[Krayin CRM VoIP](https://krayincrm.com/extensions/krayin-crm-voip/) extension allows the user to make Trunk calls over a broadband Internet connection and the user can also perform Inbound routes.
+[Бизнес Поток CRM VoIP](https://krayincrm.com/extensions/krayin-crm-voip/) extension allows the user to make Trunk calls over a broadband Internet connection and the user can also perform Inbound routes.
 
 ![enter image description here](https://raw.githubusercontent.com/krayin/temp-media/master/krayin-voip.png)
 
 ### License
 
-Krayin CRM is a fully open-source CRM framework which will always be free under the [MIT License](https://github.com/krayin/laravel-crm/blob/2.1/LICENSE).
+Бизнес Поток CRM is a fully open-source CRM framework which will always be free under the [MIT License](https://github.com/krayin/laravel-crm/blob/2.1/LICENSE).
 
 ### Security Vulnerabilities
 
-Please don't disclose security vulnerabilities publicly. If you find any security vulnerability in Krayin CRM then please email us: sales@krayincrm.com.
+Please don't disclose security vulnerabilities publicly. If you find any security vulnerability in Бизнес Поток CRM then please email us: sales@krayincrm.com.

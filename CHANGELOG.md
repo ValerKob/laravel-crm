@@ -86,7 +86,7 @@
 
 * #1972[fixed] Emails Can Be Sent from Draft Without an Email Address.
 
-* #1971[fixed] "From" Entry Missing in Sent Mails When Sending Emails from Krayin CRM .
+* #1971[fixed] "From" Entry Missing in Sent Mails When Sending Emails from Бизнес Поток CRM .
 
 * #1970[fixed] Save Draft button visibility issue in dark theme.
 
@@ -260,7 +260,7 @@
 
 * #1598[fixed] Translation Variables Displayed Instead of Text in Email Notifications
 
-* #1595[fixed] REST API: ReflectionException "Class 'Webkul\Attribute\Http\Requests\AttributeForm' does not exist" in Krayin CRM v2.0.1 Bug
+* #1595[fixed] REST API: ReflectionException "Class 'Webkul\Attribute\Http\Requests\AttributeForm' does not exist" in Бизнес Поток CRM v2.0.1 Bug
 
 * #1961[fixed] Changing activity schedule from / to date not saving
 
@@ -332,9 +332,9 @@ Added support for Brazilian Portuguese (PT_BR) Language.
 
 * #1636[fixed] Quote pdf download error fix. 
 
-* #1594[fixed] Stage Sorting in Pipeline not working - Krayin CRM Version. 
+* #1594[fixed] Stage Sorting in Pipeline not working - Бизнес Поток CRM Version. 
 
-* #1594[fixed] Stage Sorting in Pipeline not working - Krayin CRM Version. 
+* #1594[fixed] Stage Sorting in Pipeline not working - Бизнес Поток CRM Version. 
 
 ## **v2.0.2 (24th of September 2024)** - *Release*
 
