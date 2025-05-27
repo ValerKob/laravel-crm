@@ -1252,7 +1252,7 @@ return [
                     'created-at'    => 'Дата создания',
                     'delete'        => 'Удалить',
                     'edit'          => 'Редактировать',
-                    'email'         => 'Email',
+                    'email'         => 'Почта',
                     'id'            => 'ID',
                     'inactive'      => 'Неактивен',
                     'name'          => 'Имя',
@@ -1263,7 +1263,7 @@ return [
 
                 'create' => [
                     'confirm-password' => 'Подтвердите пароль',
-                    'email'            => 'Email',
+                    'email'            => 'Почта',
                     'general'          => 'Общие',
                     'global'           => 'Глобальный',
                     'group'            => 'Группа',
@@ -1529,7 +1529,7 @@ return [
                     'types' => [
                         'address'  => 'Адрес',
                         'date'     => 'Дата',
-                        'email'    => 'Email',
+                        'email'    => 'Почта',
                         'lookup'   => 'Поиск',
                         'phone'    => 'Телефон',
                         'price'    => 'Цена',
@@ -1569,7 +1569,7 @@ return [
                 'boolean'               => 'Логический (да/нет)',
                 'select'                => 'Выбор',
                 'multiselect'           => 'Множественный выбор',
-                'email'                 => 'Email',
+                'email'                 => 'Почта',
                 'address'               => 'Адрес',
                 'phone'                 => 'Телефон',
                 'datetime'              => 'Дата и время',
@@ -1595,7 +1595,7 @@ return [
                 'date'                  => 'Дата',
                 'datetime'              => 'Дата и время',
                 'decimal'               => 'Десятичный',
-                'email'                 => 'Email',
+                'email'                 => 'Почта',
                 'entity-type'           => 'Тип сущности',
                 'entity_type'           => 'Тип сущности',
                 'file'                  => 'Файл',
@@ -2029,7 +2029,7 @@ return [
         'common' => [
             'contact' => [
                 'name'           => 'Имя',
-                'email'          => 'Email',
+                'email'          => 'Почта',
                 'contact-number' => 'Контактный номер',
                 'organization'   => 'Организация',
             ],
@@ -2121,7 +2121,7 @@ return [
             'search'         => 'Поиск',
             'select-country' => 'Выберите страну',
             'select-state'   => 'Выберите регион',
-            'title'          => 'Настройки',
+            'title'          => 'Конфигурация',
 
             'general'  => [
                 'title'   => 'Общие',
@@ -2337,7 +2337,7 @@ return [
         'attribute'            => 'Атрибут',
         'attributes-info'      => 'Добавляйте, редактируйте или удаляйте атрибуты в CRM',
         'email-templates'      => 'Шаблоны писем',
-        'email'                => 'Email',
+        'email'                => 'Почта',
         'email-templates-info' => 'Добавляйте, редактируйте или удаляйте шаблоны писем в CRM',
         'events'               => 'События',
         'events-info'          => 'Добавляйте, редактируйте или удаляйте события в CRM',
